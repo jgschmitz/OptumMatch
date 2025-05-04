@@ -1,6 +1,7 @@
 # OptumMatch
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/jgschmitz/OptumMatch/blob/main/notebooks/starter.ipynb)
+
 These two scripts do similar jobs (matching patients to providers), but the approach and architecture are quite different. 
 Here is how to get started....
 
