@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
 # Connect to Atlas
-client = MongoClient("mongodb+srv://username:password@dxxxx.xxxx.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://<username>:<password>@<cluster-url>/?retryWrites=true&w=majority")
 db = client["OptumMatch"]
 collection = db["Patient-Provider"]
 
